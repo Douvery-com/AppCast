@@ -4,12 +4,12 @@
     <channel>
         <title>Douvery - Appcast</title>
         <item>
-            <title>Version 1.0.4</title>
+            <title>Version 1.0.5</title>
              <description>Nos complace presentarte las últimas mejoras y novedades de Douvery. Esta actualización incluye nuevas características, mejoras en la usabilidad y correcciones de errores para mejorar tu experiencia. ¡Descubre lo que hay de nuevo!</description>
            
 
             <pubDate>Mon, 28 Feb 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/douvery-seguridad-y-calidad/id6478280829" sparkle:version="1.0.4" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/us/app/douvery-seguridad-y-calidad/id6478280829" sparkle:version="1.0.5" sparkle:os="iOS" />
         </item>
     </channel>
 
