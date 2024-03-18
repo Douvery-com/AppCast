@@ -17,9 +17,9 @@
         <title>Douvery - Appcast</title>
         <item>
             <title>Version 1.1.2</title>
-            <description>Nuevo sistema de busqueda</description>
+            <description>Nos complace presentarte las últimas mejoras y novedades de Douvery. Esta actualización incluye nuevas características, mejoras en la usabilidad y correcciones de errores para mejorar tu experiencia. ¡Descubre lo que hay de nuevo!</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.0.1" sparkle:os="Android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.douvery" sparkle:version="1.0.10" sparkle:os="Android" />
         </item>
     </channel>
 </rss>
