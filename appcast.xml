@@ -9,7 +9,7 @@
            
 
             <pubDate>Mon, 28 Feb 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/douvery-seguridad-y-calidad/id6478280829" sparkle:version="1.0.13" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/us/app/douvery-seguridad-y-calidad/id6478280829" sparkle:version="1.0.17" sparkle:os="iOS" />
         </item>
     </channel>
 
@@ -19,7 +19,7 @@
             <title>Version 1.0.16</title>
             <description>Nos complace presentarte las últimas mejoras y novedades de Douvery. Esta actualización incluye nuevas características, mejoras en la usabilidad y correcciones de errores para mejorar tu experiencia. ¡Descubre lo que hay de nuevo!</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.douvery" sparkle:version="1.0.16" sparkle:os="Android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.douvery" sparkle:version="1.0.18" sparkle:os="Android" />
         </item>
     </channel>
 </rss>
